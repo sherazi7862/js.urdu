@@ -1,10 +1,3 @@
-
-////print our function//////
-
-console.log("sherazi")
-
-///////////////topic variable and constant///////////////
-
 const account_id =7862
 let accountemail="shahidsherazi761@gmail.com"
 var accountpassward="7862"
